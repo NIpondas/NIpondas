@@ -70,11 +70,7 @@ http://103.205.133.21/hls/ruposhibangla.m3u8?Live-TV™
 #EXTINF:-1,Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://103.205.133.21/hls/sangeetbangla.m3u8?token=soheliptv01826655778
-#EXTINF:60, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTV World"  group-title="Unsorted" - BTV World
-http://103.205.133.19/hls/btvworld.m3u8
-#EXTINF:62, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Unsorted" - BTV
-http://103.205.133.19/hls/btv.m3u8
+http://103.205.133.21/hls/sangeetbangla.m3u8?token=soheliptv0182665577
 #EXTINF:24, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="18.Gaan Bangla HD"  group-title="Unsorted" - 18.Gaan Bangla HD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1,Zee Bangla Cinema
