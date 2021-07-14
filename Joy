@@ -7,7 +7,7 @@ http://178.62.107.180/woh/index.m3u8?id=51164
 http://103.106.243.163:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-id="ZZB.IN" tvg-name="Enter 10 Bangla [IN]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" ,Zee Bangla
 http://103.205.133.19/hls/zeebanglahd.m3u8
-#EXTINF:-1,Z Bangla 2
+#EXTINF:-1,Z Bangla 2 joy
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA",Sony Aath [IN] (2)
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
@@ -63,10 +63,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1,DD Bangla
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
-
-#EXTINF:-1,Ruposhi Bangla
-http://103.205.133.21/hls/ruposhibangla.m3u8?Live-TV™
-
+#EXTINF:-1,Rtv Music 
+http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
 #EXTINF:-1,Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1,Sangeet Bangla
@@ -79,6 +77,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1,Jolsha Movies HD
 http://180.210.191.2/hls/stream27.m3u8
+#EXTINF:-1,Jolsha Movies HD 2
+http://tv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 #EXTINF:-1,Colors Bangla
 http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1,DD Bangla
@@ -87,7 +87,7 @@ https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:-1,Dhoom Music
 http://103.205.133.19/hls/dhoommusic.m3u8
 #EXTINF:-1,STAR PLUS HD
-http://103.81.104.118/hls/stream38.m3u8
+http://172.27.27.3:8081/local/Star_Plus/chunks.m3u8?nimblesessionid=12902548
 
 #EXTINF:-1,Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
@@ -117,9 +117,6 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-
-#EXTINF:-1,SBI Music
-http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1,And Pictures HD
@@ -130,8 +127,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8
 #EXTINF:-1,Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1,Z Bangla Cinema2
-http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:-1,Colors
 http://103.205.133.19/hls/chc.m3u8
 
@@ -139,14 +134,11 @@ http://103.205.133.19/hls/chc.m3u8
 http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1,Sony SD
 http://103.205.133.19/hls/chs.m3u8
-#EXTINF:-1,Sony HD
-http://103.205.133.19/hls/sonysix.m3u8
-
 
 #EXTINF:-1,Star Gold HD
-http://172.27.27.3:8081/local/Star_Gold/chunks.m3u8?nimblesessionid=12897367
-#EXTINF:-1,DASH
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold HD 2
+http://172.27.27.3:8081/local/Star_Gold/chunks.m3u8?nimblesessionid=12902558
 #EXTINF:-1,Utsav Gold HD
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1,UTV ACTION
@@ -176,22 +168,11 @@ http://103.205.133.19/hls/zeetvhd.m3u8
 http://103.205.133.19/hls/zeetvhd.m3u8
 #EXTINF:-1,Zee Classic
 https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-#EXTINF:-1,Sony PIX 1
-http://103.81.104.118/hls/stream1.m3u8
 
-#EXTINF:-1,AXN 1
-http://103.81.104.118/hls/stream2.m3u8
 #EXTINF:-1,&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
-#EXTINF:-1,National G 1
-http://103.81.104.118/hls/stream13.m3u8
 #EXTINF:-1,& Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
-
-#EXTINF:-1,Discovery bangla
-http://103.81.104.118/hls/stream9.m3u8
-#EXTINF:-1,Animal P
-http://103.81.104.118/hls/stream6.m3u
 
 #EXTINF:-1,Fox Crime
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
