@@ -138,7 +138,7 @@ http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1,Star Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold HD 2
-http://172.27.27.3:8081/local/Star_Gold/chunks.m3u8?nimblesessionid=12902558
+http://172.27.27.3:8081/local/Star_Gold/chunks.m3u8?nimblesessionid=12906502
 #EXTINF:-1,Utsav Gold HD
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1,UTV ACTION
@@ -219,3 +219,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:-1,UTV Action 2
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO 3
+http://tv.aliflailabd.com:8989/hbo/index.m3u8
+#EXTINF:-1,Star movies 3
+http://tv.aliflailabd.com:8989/star-movies-hd/index.m3u8?token=622dc8f27da17c6cb989fc7b1edd68de955e1d28-79d5e09706d476f47d3b40d8bb4a333f-1626282041-1626271241&remote=45.118.247.78
