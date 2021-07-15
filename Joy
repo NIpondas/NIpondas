@@ -89,7 +89,7 @@ https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 #EXTINF:-1,Dhoom Music
 http://103.205.133.19/hls/dhoommusic.m3u8
 #EXTINF:-1,STAR PLUS HD
-http://172.27.27.3:8081/local/Star_Plus/chunks.m3u8?nimblesessionid=12902548
+http://tv.pmcon.net/hls/stream38.m3u8
 
 #EXTINF:-1,Sony Aath
 http://103.205.133.19/hls/sony8.m3u8
@@ -121,6 +121,9 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
 #EXTINF:-1,And TV
 http://103.205.133.19/hls/andtv.m3u8
+
+#EXTINF:-1,And Pictures HD 1
+http://tv.pmcon.net/hls/stream14.m3u8
 #EXTINF:-1,And Pictures HD
 http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 #EXTINF:-1,And Pictures SD
@@ -140,7 +143,7 @@ http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1,Star Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Gold HD 2
-http://tv.pmcon.net/hls/stream5.m3u8
+http://tv.pmcon.net/hls/stream19.m3u8
 #EXTINF:-1,Utsav Gold HD
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1,UTV ACTION
