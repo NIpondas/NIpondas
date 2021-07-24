@@ -8,9 +8,8 @@ http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8?nimblesessionid=13030857
 #EXTINF:-1 tvg-id="ZZB.IN" tvg-name="Enter 10 Bangla [IN]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" ,Zee Bangla
 http://180.210.191.2/hls/stream30.m3u8
 #EXTINF:-1,Z Bangla 2 joy
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
-#EXTINF:-1,Z Bangla HD
-http://tv.aliflailabd.com:8989/zee-bangla/index.m3u8
+http://10.16.100.203:8082/bangla/zbangla_1sto
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="BANGLA",Sony Aath [IN] (2)
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1,Sony aath 2
