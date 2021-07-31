@@ -1,10 +1,10 @@
 #EXTM3U8
 #EXTINF:-1,Star Jalsha
-http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
+http://tv.pmcon.net/hls/stream31.m3u8
 #EXTINF:-1,Star Jalsha 2
 http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="ZZB.IN" tvg-name="Enter 10 Bangla [IN]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" ,Zee Bangla
-http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
+http://tv.pmcon.net/hls/stream30.m3u8
 #EXTINF:-1,Z Bangla 2
 http://172.27.27.3:8081/local/Zee_Bangla/chunks.m3u8
 
