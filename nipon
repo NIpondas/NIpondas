@@ -60,38 +60,24 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1,DD Bangla
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
-#EXTINF:-1,Rtv Music 
-http://tv.aliflailabd.com:8989/rtvmusic/index.m3u8
+
 #EXTINF:-1,Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1,Sangeet Bangla
-http://103.205.133.21/hls/sangeetbangla.m3u8?token=soheliptv0182665577
-#EXTINF:24,Gaan Bangla HD
-https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
-#EXTINF:-1,Zee Bangla Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index
+http://173.199.120.51/hls/sangeetbangla.m3u8
+
 #EXTINF:-1,Bangla Talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
-#EXTINF:-1,Jolsha Movies HD
-http://103.81.104.118/hls/stream27.m3u8
 
-#EXTINF:-1,Colors Bangla
-http://103.205.133.19/hls/colorsbangla.m3u8
 #EXTINF:-1,DD Bangla
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 
-#EXTINF:-1,Dhoom Music
-http://103.205.133.19/hls/dhoommusic.m3u8
 #EXTINF:-1,STAR PLUS HD
 http://173.199.120.51/hls/chsp.m3u8
 
 #EXTINF:-1,Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 
-#EXTINF:-1,Sangeet Bangla
-http://103.205.133.19/hls/sangeetbangla.m3u8
-#EXTINF:-1,Zee Bangla
-http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1,Zee Bangla Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
 #EXTINF:-1,Zee Bangla Cinema
@@ -100,18 +86,13 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml_480p/9XJalwa-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1,Zing
-http://103.205.133.19/hls/zing.m3u8
-#EXTINF:-1,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
 #EXTINF:-1,Desi Channel
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/chunks.m3u8
 #EXTINF:-1,Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-#EXTINF:-1,And TV
-http://103.205.133.19/hls/andtv.m3u8
 
 #EXTINF:-1,And Pictures HD
 http://tv.pmcon.net/hls/stream14.m3u8
@@ -129,10 +110,6 @@ http://103.205.133.19/hls/chsp.m3u8
 #EXTINF:-1,Sony SD
 http://103.205.133.19/hls/chs.m3u8
 
-#EXTINF:-1,Star Gold HD
-http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Gold HD 2
-http://tv.pmcon.net/hls/stream19.m3u8
 #EXTINF:-1,Utsav Gold HD
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1,UTV ACTION
