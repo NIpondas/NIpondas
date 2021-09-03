@@ -24,12 +24,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
-
+#EXTINF:-1,G Tv
+http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA",BTV WORLD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BANGLA",ATN BANGLA [BD]
-http://10.16.100.203:8082/bangla/atnbangla.m3u8
+http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BANGLA",CHANNEL I HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV
@@ -93,9 +94,10 @@ http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.s
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1,Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
-
+#EXTINF:-1,Star Gold
+http://172.27.27.3:8081/local/Star_Gold/chunks.m3u8
 #EXTINF:-1,And Pictures HD
-http://tv.pmcon.net/hls/stream14.m3u8
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 #EXTINF:-1,And Pictures SD
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1,Bflix Movies
