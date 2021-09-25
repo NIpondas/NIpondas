@@ -4,7 +4,7 @@ http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
 #EXTINF:-1,Star Jalsha 2
 http://172.27.27.3:8081/local/Star_Jalsha/chunks.m3u8
 #EXTINF:-1 tvg-id="ZZB.IN" tvg-name="Enter 10 Bangla [IN]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" ,Zee Bangla
-http://10.16.100.204:8082/hls/z_bangla_local.m3u8
+http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1,Z Bangla 2
 http://172.27.27.3:8081/local/Zee_Bangla/chunks.m3u8
 
@@ -58,7 +58,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",BIJOY TV HD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,Jolsha Movies
-http://103.81.104.118/hls/jalshamovies.m3u8
+http://jupiter.bdcabletv.com/ENC-6/mono.m3u8
 #EXTINF:-1,Dipto Tv
 http://103.81.104.118/hls/dipto.m3u8
 #EXTINF:-1,Enterr10
