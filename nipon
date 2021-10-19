@@ -1,4 +1,3 @@
-
 #EXTM3U8
 #EXTINF:-1,Star Jalsha নিপন
 http://173.199.120.51/hls/chsj.m3u8
@@ -186,5 +185,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Travel XP Hindi
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
-#EXTINF:-1,G Tv 2
+#EXTINF:-1,T sports 
 http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1,T sports 2
+http://10.16.100.245/hindi/T_Sports.m3u8
