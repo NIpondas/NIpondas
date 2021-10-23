@@ -26,7 +26,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1,G Tv
-http://172.27.27.3:8081/local/gazi-tv/chunks.m3u8
+http://dds.oncast.me:1934/dlive/gz.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA",BTV WORLD [BD]
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
@@ -185,7 +185,9 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Travel XP Hindi
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
-#EXTINF:-1,T sports 
-http://10.16.100.213:8080/hls/tsports.m3u8
-#EXTINF:-1,T sports 2
+#EXTINF:-1,Star Sports 
+http://dds.oncast.me:1934/dlive/sp3.stream/chunks.m3u8
+#EXTINF:-1,Stat sports select HD2
 http://10.16.100.245/hindi/T_Sports.m3u8
+#EXTINF:-1,Ten Sports 
+http://dds.oncast.me:1934/dlive/sp4.stream/chunks.m3u8
