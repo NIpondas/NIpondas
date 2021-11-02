@@ -189,7 +189,7 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 http://103.40.226.94:8080/hls/channel_1.m3u8
 
 #EXTINF:-1 group-title="special" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 3
-http://223.29.212.14:8089/102/index.m3u8?token=887ce5c6669cb30600d726e6c757c6a91f442fc5-f11c3d3705107a95549773f258e9ef3f-1635331190-1635320390&remote=43.250.83.83
+http://103.70.140.27:8080/hls/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="special",GAZI TV 2
 http://223.29.212.14:8089/1/index.m3u8?token=3a5bd54dfdf81341d90435ebf14dff09ca7928fe-de444f837b534f34149bf7b42aaba7d9-1635331249-1635320449&remote=43.250.83.83
