@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/t-sports.png" group-title="Sports", 31. T SPORTS HD
+http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-1-hd.png" group-title="Sports", 79. STAR SPORTS 1 HD
 http://15.1.5.10:8082/STAR-SPORTS-1/index.m3u8
 
